@@ -1,4 +1,4 @@
-Google Play Music™ Desktop Player
+Google Play Music™ Desktop Player  (ARCHIVED - Since Google Play is no longer a product, this is not being developed any longer)
 =========================
 
 [![Join the chat at https://gitter.im/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
